@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "lcd12864_port.h": "c",
+        "lcd12864.h": "c",
+        "lcd12864_graph.h": "c",
+        "screen.h": "c",
+        "graph_lib_port.h": "c",
+        "stdint.h": "c",
+        "graph_lib.h": "c"
+    }
+}
